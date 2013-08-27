@@ -1,0 +1,15 @@
+p.lead{
+	text-transform: uppercase;
+}
+
+span.question{
+	background:yellow;
+}
+
+span.display-name{
+	font-family: Helvetica, Arial, Sans-serif;
+	text-transform: uppercase;
+	font-size: 10px;
+	background: blue;
+	color: white;
+}

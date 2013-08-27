@@ -1,0 +1,24 @@
+.chapter-index{
+	position: fixed;
+	top:70px;
+	right:50px;
+	width: 300px;
+	background: @chapter-default-bg;
+	padding: 20px 40px;
+	border: 2px solid #ddd;
+	z-index: 999;
+}
+
+.content-block.chapter{
+	overflow: hidden;
+	background: @chapter-default-bg;
+	height: @chapter-height;
+	margin-bottom: @chapter-margin-bottom;
+}
+
+.content-block.chapter a{
+	display: block;
+	color: @navbar-default-color;
+	text-decoration: none;
+	padding: @chapter-padding-vertical 0;
+}
