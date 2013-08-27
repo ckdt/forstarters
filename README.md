@@ -1,4 +1,0 @@
-forstarters
-===========
-
-Wordpress Start Theme
